@@ -30,6 +30,8 @@ I'm an Information Technology student at **Bulacan State University** with an in
 
 **Database**
 - MySQL
+- Firebase
+- Microsoft SQL Server
 
 **Programming Languages**
 - Java
@@ -42,6 +44,7 @@ I'm an Information Technology student at **Bulacan State University** with an in
 - GitHub
 - Visual Studio Code
 - Android Studio
+- Figma
 
 ### Featured Projects
 
