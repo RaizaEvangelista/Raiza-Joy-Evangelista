@@ -56,9 +56,6 @@ A web and mobile-based platform designed to support disaster reporting, incident
 
 A point-of-sale and inventory management application designed to manage products, sales transactions, and inventory records.
 
-**Document Management System**
-
-A web-based application for organizing, managing, and tracking digital documents.
 
 ### Currently Learning
 
@@ -70,8 +67,7 @@ A web-based application for organizing, managing, and tracking digital documents
 ### Connect With Me
 
 - GitHub: [@RaizaEvangelista](https://github.com/RaizaEvangelista)
-- LinkedIn: [Add your LinkedIn profile]
-- Email: [Add your professional email]
+- Email: raizaevangelista8@gmail.com
 
 ---
 
